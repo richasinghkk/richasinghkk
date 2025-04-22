@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=richasinghkk" alt="richasinghkk" /></a> </p>
 
-- 🔭 I’m currently working on [FACE RECOGNITION ATTENDANCE SYSTEM](https://github.com/kazuha2004/FACE_RECOGNITION_ATTENDANCE_SYSTEM)
+- 🔭 I have completed [FACE RECOGNITION ATTENDANCE SYSTEM](https://github.com/kazuha2004/FACE_RECOGNITION_ATTENDANCE_SYSTEM)
 
 - 🌱 I’m currently learning **FullStack**
 
